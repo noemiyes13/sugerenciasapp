@@ -1,8 +1,8 @@
-package bd_test;
+package config.bd_test;
 
 import java.sql.Connection;
 import java.sql.SQLException;
-import bd.ConectaBd;
+import config.bd.ConectaBd;
 
 public class test_ConectaBd {
 
